@@ -1,0 +1,28 @@
+{
+	"check_word" : "#____",
+	"game_id" : "26003_0000",
+	"guesses" : 
+	{
+		"data" : 
+		[
+			{
+				"guess" : "worry",
+				"result" : "__##o",
+				"time" : "0000"
+			},
+			{
+				"guess" : "sicky",
+				"result" : "____o",
+				"time" : "0000"
+			},
+			{
+				"guess" : "mound",
+				"result" : "#____",
+				"time" : "0000"
+			}
+		]
+	},
+	"remaining_score" : 97,
+	"score_distributed" : false,
+	"word" : "myrrh"
+}

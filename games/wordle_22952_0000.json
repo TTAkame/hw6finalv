@@ -1,0 +1,43 @@
+{
+	"check_word" : "o_oo_",
+	"game_id" : "22952_0000",
+	"guesses" : 
+	{
+		"data" : 
+		[
+			{
+				"guess" : "brick",
+				"result" : "__o__",
+				"time" : "0000"
+			},
+			{
+				"guess" : "glent",
+				"result" : "_oo__",
+				"time" : "0000"
+			},
+			{
+				"guess" : "waqfs",
+				"result" : "_o___",
+				"time" : "0000"
+			},
+			{
+				"guess" : "jumpy",
+				"result" : "__o__",
+				"time" : "0000"
+			},
+			{
+				"guess" : "vozhd",
+				"result" : "_____",
+				"time" : "0000"
+			},
+			{
+				"guess" : "lumen",
+				"result" : "o_oo_",
+				"time" : "0000"
+			}
+		]
+	},
+	"remaining_score" : 94,
+	"score_distributed" : false,
+	"word" : "email"
+}

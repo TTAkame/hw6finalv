@@ -1,0 +1,28 @@
+{
+	"check_word" : "__o__",
+	"game_id" : "78827_0000",
+	"guesses" : 
+	{
+		"data" : 
+		[
+			{
+				"guess" : "worry",
+				"result" : "__o__",
+				"time" : "0000"
+			},
+			{
+				"guess" : "sicky",
+				"result" : "#____",
+				"time" : "0000"
+			},
+			{
+				"guess" : "mound",
+				"result" : "__o__",
+				"time" : "0000"
+			}
+		]
+	},
+	"remaining_score" : 97,
+	"score_distributed" : false,
+	"word" : "sugar"
+}

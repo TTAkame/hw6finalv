@@ -1,0 +1,38 @@
+{
+	"check_word" : "_#___",
+	"game_id" : "20772_0000",
+	"guesses" : 
+	{
+		"data" : 
+		[
+			{
+				"guess" : "brick",
+				"result" : "_____",
+				"time" : "0000"
+			},
+			{
+				"guess" : "glent",
+				"result" : "__o__",
+				"time" : "0000"
+			},
+			{
+				"guess" : "waqfs",
+				"result" : "____o",
+				"time" : "0000"
+			},
+			{
+				"guess" : "jumpy",
+				"result" : "___o_",
+				"time" : "0000"
+			},
+			{
+				"guess" : "vozhd",
+				"result" : "_#___",
+				"time" : "0000"
+			}
+		]
+	},
+	"remaining_score" : 95,
+	"score_distributed" : false,
+	"word" : "posse"
+}

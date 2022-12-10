@@ -1,0 +1,38 @@
+{
+	"check_word" : "_o___",
+	"game_id" : "44014_0000",
+	"guesses" : 
+	{
+		"data" : 
+		[
+			{
+				"guess" : "brick",
+				"result" : "_____",
+				"time" : "0000"
+			},
+			{
+				"guess" : "glent",
+				"result" : "___oo",
+				"time" : "0000"
+			},
+			{
+				"guess" : "waqfs",
+				"result" : "_____",
+				"time" : "0000"
+			},
+			{
+				"guess" : "jumpy",
+				"result" : "##___",
+				"time" : "0000"
+			},
+			{
+				"guess" : "vozhd",
+				"result" : "_o___",
+				"time" : "0000"
+			}
+		]
+	},
+	"remaining_score" : 95,
+	"score_distributed" : false,
+	"word" : "junto"
+}

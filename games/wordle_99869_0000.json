@@ -1,0 +1,28 @@
+{
+	"check_word" : "__o_#",
+	"game_id" : "99869_0000",
+	"guesses" : 
+	{
+		"data" : 
+		[
+			{
+				"guess" : "worry",
+				"result" : "___#_",
+				"time" : "0000"
+			},
+			{
+				"guess" : "sicky",
+				"result" : "_____",
+				"time" : "0000"
+			},
+			{
+				"guess" : "mound",
+				"result" : "__o_#",
+				"time" : "0000"
+			}
+		]
+	},
+	"remaining_score" : 97,
+	"score_distributed" : false,
+	"word" : "guard"
+}

@@ -1,0 +1,28 @@
+{
+	"check_word" : "_____",
+	"game_id" : "28435_0000",
+	"guesses" : 
+	{
+		"data" : 
+		[
+			{
+				"guess" : "worry",
+				"result" : "_____",
+				"time" : "0000"
+			},
+			{
+				"guess" : "sicky",
+				"result" : "_____",
+				"time" : "0000"
+			},
+			{
+				"guess" : "mound",
+				"result" : "_____",
+				"time" : "0000"
+			}
+		]
+	},
+	"remaining_score" : 97,
+	"score_distributed" : false,
+	"word" : "plate"
+}

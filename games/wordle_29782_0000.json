@@ -1,0 +1,38 @@
+{
+	"check_word" : "____#",
+	"game_id" : "29782_0000",
+	"guesses" : 
+	{
+		"data" : 
+		[
+			{
+				"guess" : "brick",
+				"result" : "_#_o_",
+				"time" : "0000"
+			},
+			{
+				"guess" : "glent",
+				"result" : "__#__",
+				"time" : "0000"
+			},
+			{
+				"guess" : "waqfs",
+				"result" : "_____",
+				"time" : "0000"
+			},
+			{
+				"guess" : "jumpy",
+				"result" : "_____",
+				"time" : "0000"
+			},
+			{
+				"guess" : "vozhd",
+				"result" : "____#",
+				"time" : "0000"
+			}
+		]
+	},
+	"remaining_score" : 95,
+	"score_distributed" : false,
+	"word" : "creed"
+}
